@@ -22,3 +22,9 @@ Twitter: <br>
 
 Email: <br>
 [tom@southernderd.us](tom@southernderd.us "Tom's Email") <br>
+
+<br>
+
+- - -
+**Inspiration** <br>
+This library was developed in its entirety by me, however some aspects were inspired by [PSForceTouchGestureRecognizer](https://github.com/nolanbrown/PSForceTouchGestureRecognizer).
